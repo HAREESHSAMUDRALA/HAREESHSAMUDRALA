@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Hareesh </h1>
-<h3 align="center">M.Tech EPD Student @IISC</h3>
+<h3 align="center">M.Tech EPD Student @IISc</h3>
 <img align="right" alt="coding" width="400" src="programmer_coding_illustration.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n0v33n&label=Profile%20views&color=0e75b6&style=flat" alt="HAREESHSAMUDRALA" /> </p>
