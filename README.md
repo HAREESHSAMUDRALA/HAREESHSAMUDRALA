@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Hareesh </h1>
 <h3 align="center">M.Tech EPD Student @IISC</h3>
-<img align="right" alt="coding" width="400" src="assets/coding.svg">
+<img align="right" alt="coding" width="400" src="programmer_coding_illustration.png">
 
 
 
